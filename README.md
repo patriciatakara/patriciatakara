@@ -1,3 +1,6 @@
+![Header](./github_banner.png)
+
+
 # About Me:
 I am a Computer Science graduate from the University of South Florida.<br>Currently, learning new technologies, and improving my programming skills through personal projects.<br>
 
