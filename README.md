@@ -34,7 +34,6 @@ I am a Computer Science graduate from the University of South Florida.<br>Curren
 ![Terraform](https://img.shields.io/badge/terraform-%235E5E5E.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
-#  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=patriciatakara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=patriciatakara&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=patriciatakara&theme=dark&hide_border=true)
